@@ -98,4 +98,3 @@ GNU Affero GPL v3.0. See [LICENSE](LICENSE). Loopback lab only. No warranty.
 Abraxas Labs
 abraxas.null@proton.me
 
-Please credit CVE to Abraxas Labs.
